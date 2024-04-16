@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './Filtro.css';
+import './filtro.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCaretDown, faTrash } from '@fortawesome/free-solid-svg-icons';
 
