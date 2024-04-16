@@ -1,0 +1,11 @@
+.contenedor-donar {
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: var(--color-principal-claro);
+}

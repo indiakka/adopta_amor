@@ -1,0 +1,29 @@
+.logo {
+    width: 100%;
+    height: 17vh;
+    margin: auto;
+    padding: 0;
+    display: block;
+    stroke: var(--color-principal);
+    fill: var(--color-principal);
+}
+
+.logo:hover {
+    transform: scale(1.1);
+    width: 101%;
+}
+
+@media only screen and (max-width: 480px) {
+
+    .logo {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .logo {
+        width: 50%;
+
+    }
+}
